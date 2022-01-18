@@ -1,5 +1,10 @@
 .DS_Store
+*.pyc
 
 cython_bbox-0.1.3
-yolox_baseline.zip
-yolox_finetune.zip
+
+detection/__MACOSX
+detection/yolox_baseline
+detection/yolox_finetune
+
+detection_results
